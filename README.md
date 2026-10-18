@@ -4,7 +4,7 @@ A 60-second educational explainer video introducing blockchain technology, trans
 
 ## Video
 
-Place the exported video at `video/block-chain-explainer.mp4` after uploading it to this repository.
+Upload the exported video to the repository root as `block-chain-explainer.mp4`.
 
 ## Topics covered
 
